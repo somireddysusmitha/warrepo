@@ -16,7 +16,7 @@
     </dependency>
   </dependencies>
   <build>
-    <finalName>CounterWebApp_10.0</finalName>
+    <finalName>CounterWebApp_10.1</finalName>
   </build>
   <distributionManagement>
     <repository>
